@@ -1,2 +1,1 @@
-# Helper CSS #
-
+# Helper CSS Classes #
